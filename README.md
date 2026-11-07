@@ -1,0 +1,1 @@
+PhotoBook Studio V6 — fixes Three.js module imports, removes conflicting Canvas2D initialization, and makes the 3MF export button independent of viewer startup. Upload all four web files to the GitHub Pages root, then hard-refresh. Export is still an unvalidated prototype, not a proven functional photo book.
