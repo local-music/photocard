@@ -1,0 +1,1 @@
+PhotoBook Studio V5 — fixes the blank preview caused by a missing Three.js import map and removes the external JSZip dependency from 3MF export. Upload all files together to GitHub Pages. The exported model is still an unvalidated geometric prototype, not a functioning book. The 3D viewer requires internet access to load Three.js from jsDelivr.
